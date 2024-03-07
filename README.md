@@ -24,7 +24,7 @@ Key Points:
 
 Key Insights
 
-  - Cluj_Real_Estate_Analysis.ipynb: Jupyter Notebook containing the entire analysis.
+  - RealEstateAnalysis.ipynb: Jupyter Notebook containing the entire analysis.
   - uncleaned_data.txt: The initial uncleaned dataset.
   - clean_data.txt: The final cleaned and prepared dataset.
   - listings_urls.txt: Text file containing every listing url.
