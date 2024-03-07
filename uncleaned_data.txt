@@ -1,0 +1,300 @@
+area,rooms_num,market,advertiser_type,lift,price,building_ownership,construction_status,floor,outdoor,car,heating,build_year,building_type,windows_type,media_types,security_types,extras_types,building_material,equipment_types,street,neighbourhood
+46,2,locuință utilizată,agenție,False,135000,,,,,,,0,,,,,,,,,Marasti
+57,2,locuință nouă,agenție,True,109674,drept de proprietate,în construcție,5/9,"('balcon', 'terasă')",garaj,centrală pe gaz,2023,bloc,plastic,"('cablu tv', 'internet')","('ușă metalică', 'curte', 'interfon')","('debara',)",cărămidă,,,Unknown
+80,4,locuință utilizată,agenție,False,257000,,,2/x,,,,1997,,,,,,,,,Marasti
+78,3,locuință utilizată,agenție,False,285000,drept de proprietate,gata de utilizare,1/2,"('balcon', 'grădină')",,,0,vilă,,"('cablu tv', 'internet', 'telefon')","('ușă metalică', 'curte', 'interfon')","('beci', 'bucătărie separată', 'debara')",cărămidă,"('mașină de spălat vasele', 'frigider', 'mobilier', 'cuptor', 'plită', 'TV', 'mașină de spălat')",,Centru
+46,2,locuință nouă,agenție,False,115000,,gata de utilizare,0/2,,,centralizată,2008,,,,,,,,,Buna Ziua
+75,3,locuință nouă,agenție,False,180000,,gata de utilizare,1/3,"('balcon',)",,centralizată,2005,,,,,,,,,Manastur
+42,2,locuință nouă,agenție,True,135000,,gata de utilizare,3/6,"('balcon',)",,centralizată,2016,,,,,"('aer condiționat',)",,,,Sopor
+50,2,locuință nouă,agenție,False,125000,,gata de utilizare,4/4,"('balcon',)",,centralizată,1983,,,,,,,,,Grigorescu
+68,2,locuință utilizată,agenție,False,140000,,,3/x,,,,0,,,,,,,,,Marasti
+53,2,locuință nouă,agenție,True,139000,,gata de utilizare,5/6,"('balcon',)",,centralizată,2020,,,,,"('aer condiționat',)",,,,Dambul Rotund
+53,2,locuință nouă,agenție,False,135000,,gata de utilizare,3/5,,,,2013,,,,,,,,Bulevardul Muncii,Iris
+56,2,locuință nouă,agenție,True,249000,,,1/4,,,centralizată,2020,,,,,,,,,Marasti
+70,3,locuință nouă,agenție,False,97500,,,1/3,"('balcon',)",,centralizată,2023,,,,,,,,,Dambul Rotund
+39,2,locuință nouă,agenție,True,115000,,gata de utilizare,5/10,"('balcon',)",,,1977,,,,,,,,,Manastur
+40,2,locuință utilizată,agenție,False,102500,,,4/x,,,,0,,,,,,,,Strada Almasului,Manastur
+51,2,locuință nouă,agenție,True,159051,,gata de utilizare,4/6,"('balcon',)",,centrală pe gaz,2023,bloc,plastic,,"('ușă metalică', 'interfon')",,,,,Sopor
+38,1,locuință nouă,agenție,True,112317,,gata de utilizare,4/6,"('balcon',)",,centrală pe gaz,2023,,plastic,,"('ușă metalică', 'interfon')",,,,,Sopor
+24,1,locuință nouă,agenție,True,80000,,gata de utilizare,2/8,"('balcon',)",,centralizată,1980,,,,,,,,,Grigorescu
+69,3,locuință utilizată,agenție,False,199500,,,2/x,,,,0,,,,,,,,,Marasti
+40,2,locuință nouă,agenție,True,108000,,gata de utilizare,10/10,"('balcon',)",,centralizată,1980,,,,,,,,,Manastur
+56,2,locuință nouă,agenție,False,164000,,gata de utilizare,5/8,,,centralizată,2016,,,,,"('aer condiționat',)",,,,Buna Ziua
+184,5,locuință nouă,agenție,False,360000,,,3/x,,,,0,,,,,,,,Strada Mircea Eliade,Zorilor
+64,3,locuință nouă,agenție,True,155000,,gata de utilizare,10/10,"('balcon',)",,centralizată,1989,,,,,,,,,Manastur
+25,1,locuință utilizată,agenție,False,70000,,,1/4,"('balcon',)",,,1980,,,,,,,,,Intre Lacuri
+58,2,locuință utilizată,agenție,True,173000,,,2/x,"('balcon',)",,,2023,,,,"('ușă metalică', 'supraveghere video')",,,,Strada Tasnad,Manastur
+39,1,locuință utilizată,agenție,False,145000,,gata de utilizare,1/3,,,centralizată,2000,,,,,,,,,Marasti
+76,3,locuință nouă,agenție,True,180000,,gata de utilizare,8/8,"('balcon',)",,centralizată,1985,,,,,"('aer condiționat',)",,,Strada Nasaud,Marasti
+22,1,locuință utilizată,agenție,False,70000,,,2/4,,,,1980,,,,,,,,,Gheorgheni
+22,1,locuință utilizată,agenție,False,68000,,,3/4,"('balcon',)",,centralizată,1980,,,,,,,,,Intre Lacuri
+25,1,locuință nouă,agenție,False,68500,,gata de utilizare,4/4,"('balcon',)",,centralizată,1978,,,,,,,,,Manastur
+60,3,locuință nouă,agenție,True,175000,,gata de utilizare,3/10,"('balcon',)",,centrală pe gaz,2017,bloc,plastic,,"('ușă metalică', 'interfon')",,cărămidă,"('frigider', 'mobilier', 'cuptor', 'plită', 'mașină de spălat')",,Iris
+70,3,locuință nouă,agenție,False,178000,,,3/x,,,,0,,,,,,,,Strada Macesului,Buna Ziua
+40,1,locuință utilizată,agenție,True,118000,,gata de utilizare,6/8,"('balcon',)",,centrală pe gaz,1983,bloc,plastic,,"('ușă metalică', 'interfon')","('bucătărie separată',)",,,,Gheorgheni
+62,3,locuință utilizată,agenție,False,160000,,,7/x,,,,0,,,,,,,,Strada Trascaului,Zorilor
+55,2,locuință utilizată,agenție,False,150000,,,4/x,,,,0,,,,,,,,Strada Lunii,Zorilor
+46,2,locuință nouă,agenție,False,112000,,,2/x,,,,0,,,,,,,,Strada Teleorman,Intre Lacuri
+53,2,locuință nouă,agenție,False,127000,,,2/x,,,,0,,,,,,,,Strada Teleorman,Intre Lacuri
+43,2,locuință utilizată,agenție,False,115000,,,4/x,,,,0,,,,,,,,Strada Izlazului,Manastur
+83,3,locuință nouă,agenție,True,279500,,,3/6,"('balcon',)",,centralizată,2022,,,,,"('aer condiționat',)",,,Strada Alexandru Vaida Voievod,Gheorgheni
+60,3,locuință nouă,agenție,False,220000,,,5/x,,,,0,,,,,,,,Strada Bucuresti,Marasti
+22,1,locuință nouă,agenție,False,105000,,,4/x,,,,0,,,,,,,,Strada Intre Lacuri,Intre Lacuri
+72,3,locuință utilizată,agenție,False,185000,,,1/8,"('balcon',)",,centralizată,1989,,,,,,,,Strada Nasaud,Marasti
+63,2,locuință nouă,agenție,False,159000,,gata de utilizare,1/4,,,,2021,,,,,,,,Bulevardul Muncii,Iris
+80,3,locuință utilizată,agenție,False,220000,,,9/10,"('balcon',)",,centralizată,1998,,,,,,,,,Manastur
+76,4,locuință utilizată,agenție,False,200000,,gata de utilizare,1/8,"('balcon',)",,centralizată,1980,,,,,,,,,Intre Lacuri
+83,4,locuință utilizată,agenție,False,180000,,,2/4,"('balcon',)",,centralizată,1980,,,,,"('aer condiționat',)",,,,Manastur
+70,4,locuință utilizată,agenție,False,210000,,gata de utilizare,3/4,"('balcon',)",,,1980,,,,,,,,,Sopor
+80,4,locuință utilizată,agenție,False,225000,,,2/4,"('balcon',)",,centralizată,1990,,,,,,,,,Plopilor
+76,4,locuință utilizată,agenție,False,190000,,,3/4,"('balcon',)",,,1980,,,,,,,,,Manastur
+65,3,locuință nouă,agenție,False,225000,,gata de utilizare,2/4,,,centralizată,1970,,,,,,,,,Gheorgheni
+66,4,locuință utilizată,agenție,True,135000,,,3/10,"('balcon',)",,centralizată,1980,,,,,,,,,Manastur
+107,3,locuință nouă,agenție,False,279000,,necesita renovare,10/24,"('balcon',)",,,2023,clădire de apartamente,,,,,,,,Manastur
+80,4,locuință utilizată,agenție,False,178000,,,1/4,,,centralizată,1980,,,,,,,,,Marasti
+79,4,locuință utilizată,agenție,False,200000,,,1/8,"('balcon',)",,centralizată,1980,,,,,,,,,Manastur
+87,3,locuință utilizată,agenție,True,210000,,,5/5,,,centralizată,0,,,,,,,,,Gruia
+53,2,locuință nouă,agenție,True,139000,,gata de utilizare,2/5,"('balcon',)",,centralizată,2020,,,,,,,,,Dambul Rotund
+68,3,locuință utilizată,agenție,False,135000,,,0/4,,,centralizată,1980,,,,,,,,,Manastur
+67,3,locuință nouă,agenție,False,220000,,,8/x,,,,0,,,,,,,,Strada General Nicolae Dascalescu,Gheorgheni
+24,1,locuință nouă,agenție,False,55000,,gata de utilizare,0/4,,,centralizată,2007,,,"('internet',)",,,,"('mobilier',)",Aleea Zaharia Stancu,Buna Ziua
+39,1,locuință nouă,agenție,False,118000,,,7/8,"('balcon',)",,centralizată,0,,,,,,,,,Gheorgheni
+61,2,locuință nouă,agenție,True,219000,,,9/12,"('balcon',)",,centralizată,2022,,,,,,,,,Manastur
+30,2,locuință nouă,agenție,False,90000,,gata de utilizare,3/x,,,centralizată,1997,,,,,,,,,Gheorgheni
+56,2,locuință nouă,agenție,True,176000,,,5/8,,,centralizată,2017,,,,,"('aer condiționat',)",,,,Buna Ziua
+53,1,locuință nouă,agenție,False,139000,,necesita renovare,7/24,"('balcon',)",,,2023,clădire de apartamente,,"('internet',)",,,,,,Manastur
+52,2,locuință utilizată,agenție,False,112000,,,3/x,"('balcon',)",,,0,,,,,,,,,Marasti
+50,2,locuință nouă,agenție,False,135000,,,4/x,"('balcon',)",,,2010,,,,,,,,,Marasti
+46,2,locuință nouă,agenție,False,119500,,,2/4,,,centralizată,0,,,,,,,,,Centru
+100,3,locuință utilizată,agenție,False,235000,,,0/x,,,,1900,,,,,,,,,Marasti
+63,3,locuință utilizată,agenție,False,154000,,,0/x,"('balcon',)",,,0,,,,,,,,,Marasti
+77,3,locuință nouă,agenție,False,256000,,,1/x,"('balcon',)",,,0,,,,,,,,,Marasti
+26,1,locuință utilizată,agenție,False,66000,,,0/x,,,,1980,,,,,,,,,Marasti
+45,2,locuință utilizată,agenție,False,130000,,,0/x,,,,0,,,,,,,,,Marasti
+64,3,locuință utilizată,agenție,False,169999,,,6/x,"('balcon',)",,,0,,,,,,,,,Marasti
+64,3,locuință utilizată,agenție,False,152000,,,0/x,"('balcon',)",,,0,,,,,,,,,Marasti
+68,3,locuință utilizată,agenție,False,165000,,,2/x,"('balcon',)",,,0,,,,,,,,,Marasti
+82,3,locuință nouă,privat,True,250000,,gata de utilizare,5/6,,,,2024,bloc,,"('internet',)","('interfon', 'supraveghere video')",,,,Strada Macesului,Becas
+81,3,locuință utilizată,agenție,False,349000,,,1/x,,,,0,,,,,,,,,Marasti
+31,1,locuință utilizată,agenție,False,131000,,,0/x,"('balcon',)",,,0,,,,,,,,,Marasti
+50,2,locuință utilizată,agenție,False,149500,,,3/x,"('balcon',)",,,0,,,,,,,,,Marasti
+53,2,locuință nouă,agenție,True,139000,,gata de utilizare,2/6,"('balcon',)",,centralizată,2020,,,,,,,,,Dambul Rotund
+32,1,locuință nouă,agenție,False,81900,,gata de utilizare,1/2,"('balcon',)",,centralizată,0,,,,,,,,,Someseni
+30,1,locuință utilizată,agenție,False,95000,,,3/x,,,,0,,,,,,,,Strada Aurel Suciu,Gheorgheni
+92,3,locuință utilizată,agenție,False,227000,drept de proprietate,gata de utilizare,4/4,"('balcon', 'terasă')",,centrală pe gaz,0,bloc,plastic,"('cablu tv', 'internet', 'telefon')","('ușă metalică', 'interfon')","('beci', 'bucătărie separată')",,"('frigider', 'mobilier', 'cuptor', 'plită', 'TV', 'mașină de spălat')",,Gheorgheni
+52,1,locuință nouă,agenție,False,129000,,necesita renovare,8/24,"('balcon',)",,,2023,clădire de apartamente,,,,,,,,Manastur
+52,2,locuință nouă,agenție,False,160000,,,4/x,"('balcon',)",,,2019,,,,,,,,,Marasti
+40,1,locuință utilizată,agenție,False,109000,,,6/x,,,,0,,,,,,,,,Marasti
+47,2,locuință nouă,agenție,False,168000,,,1/x,"('balcon',)",,,2013,,,,,,,,,Marasti
+38,1,locuință utilizată,agenție,False,125000,,,2/x,,,,0,,,,,,,,,Marasti
+38,2,locuință nouă,agenție,False,150000,,,3/x,"('balcon',)",,,2010,,,,,,,,,Marasti
+47,2,locuință utilizată,agenție,False,129000,,,1/x,"('balcon',)",,,0,,,,,,,,,Marasti
+60,2,locuință utilizată,agenție,False,105000,,,0/x,,,,0,,,,,,,,,Marasti
+65,2,locuință nouă,agenție,False,200000,,,4/x,"('balcon',)",,,2021,,,,,,,,,Marasti
+28,1,locuință utilizată,agenție,False,65000,,,-1/x,,,,0,,,,,,,,,Marasti
+38,1,locuință nouă,agenție,False,110000,,,2/x,"('balcon',)",,,0,,,,,,,,,Marasti
+28,1,locuință utilizată,agenție,False,80000,,,6/x,"('balcon',)",,,0,,,,,,,,,Marasti
+33,1,locuință nouă,agenție,False,75000,,gata de utilizare,1/3,,,centralizată,2016,,,"('internet',)",,,,"('mobilier',)",Strada Traian Vuia,Someseni
+64,3,locuință nouă,agenție,True,155000,,gata de utilizare,10/10,"('balcon',)",,centralizată,1979,,,,,,,,,Manastur
+26,1,locuință nouă,agenție,False,71000,,gata de utilizare,0/4,,,,0,,,,,,,,,Manastur
+87,3,locuință nouă,privat,False,192500,,,2/6,,,,2023,,,"('cablu tv', 'internet')","('ușă metalică', 'interfon', 'supraveghere video')",,,,Strada Macesului,Becas
+58,4,locuință utilizată,agenție,False,99900,,,0/x,,,,0,,,,,,,,,Manastur
+30,1,locuință utilizată,agenție,False,59999,,,4/x,,,,0,,,,,,,,,Dambul Rotund
+66,3,locuință nouă,agenție,False,165000,,gata de utilizare,0/4,,,centralizată,0,,,,,,,,,Zorilor
+57,4,locuință utilizată,agenție,False,99900,drept de proprietate,,0/4,,,,0,bloc,,,,,cărămidă,,,Manastur
+11,1,locuință utilizată,agenție,False,32000,,,0/x,,,,0,,,,,,,,,Marasti
+113,3,locuință nouă,agenție,False,390000,,,5/x,,,,0,,,,,,,,Strada Nicolae Tonitza,Buna Ziua
+58,3,locuință utilizată,agenție,False,125000,,gata de utilizare,4/7,"('balcon',)",,centralizată,1991,,,,,,,,,Dambul Rotund
+52,3,locuință utilizată,agenție,False,140000,,gata de utilizare,2/4,"('balcon',)",,centralizată,2008,,,,,,,,,Manastur
+40,1,locuință nouă,agenție,True,109500,,gata de utilizare,5/10,"('balcon',)",,,1980,,,,,,,,,Manastur
+45,2,locuință nouă,agenție,True,111000,drept de proprietate,gata de utilizare,4/6,"('balcon',)",,centrală pe gaz,2022,bloc,,"('cablu tv', 'internet', 'telefon')","('ușă metalică', 'interfon')","('scară interioară',)",cărămidă,"('frigider', 'mobilier', 'cuptor', 'plită', 'TV', 'mașină de spălat')",,Dambul Rotund
+47,2,locuință utilizată,agenție,False,115000,,,4/x,,,,1997,,,,,,,,,Intre Lacuri
+78,3,locuință nouă,agenție,True,283000,,necesita renovare,2/3,"('balcon',)",,,2025,,,,,,,,,Centru
+59,2,locuință nouă,agenție,True,218000,,necesita renovare,2/3,"('balcon',)",,,2025,,,,,,,,,Centru
+32,1,locuință nouă,agenție,False,85000,,gata de utilizare,0/3,"('balcon',)",,centralizată,2011,,,,,,,,,Iris
+52,2,locuință nouă,agenție,True,192000,,necesita renovare,2/3,"('balcon',)",,,2025,,,,,,,,,Centru
+32,1,locuință nouă,agenție,False,79000,,gata de utilizare,1/8,,,centralizată,1985,,,,,,,,,Manastur
+30,1,locuință nouă,agenție,False,95000,,gata de utilizare,2/4,"('balcon',)",,,0,,,,,,,,,Gheorgheni
+66,3,locuință utilizată,agenție,False,133780,,în construcție,5/6,"('balcon',)",,centralizată,2022,,,,,,,,,Intre Lacuri
+61,2,locuință nouă,agenție,False,149900,,,6/x,,,,0,,,,,,,,Strada Fabricii,Iris
+68,3,locuință utilizată,agenție,False,170000,,gata de utilizare,2/4,"('balcon',)",,,1991,,,,,,,,,Manastur
+65,3,locuință nouă,agenție,False,135000,,gata de utilizare,0/4,,,centralizată,1980,,,,,,,,,Manastur
+67,3,locuință utilizată,agenție,False,210000,,,0/x,,,,1990,,,,,,,,,Marasti
+64,2,locuință utilizată,agenție,False,165000,drept de proprietate,gata de utilizare,0/4,"('balcon',)",garaj,centrală pe gaz,1993,bloc,plastic,,"('ușă metalică', 'interfon')",,cărămidă,"('frigider', 'mobilier', 'cuptor', 'plită', 'TV', 'mașină de spălat')",Strada Jozsef Attila,Andrei Muresanu
+62,3,locuință utilizată,agenție,False,170000,,,2/x,,,,0,,,,,,,,,Marasti
+78,4,locuință utilizată,agenție,True,200000,,,1/x,"('terasă',)",,centralizată,1980,clădire de apartamente,,"('telefon', 'internet', 'cablu tv')","('interfon',)","('bucătărie separată',)",,"('mobilier', 'frigider', 'mașină de spălat', 'mașină de spălat vasele')",,Manastur
+60,2,locuință utilizată,agenție,False,169500,drept de proprietate,gata de utilizare,0/4,"('balcon',)",,centrală pe gaz,2010,bloc,plastic,,"('ușă metalică', 'interfon')","('aer condiționat',)",cărămidă,"('frigider', 'mobilier', 'cuptor', 'plită', 'TV', 'mașină de spălat')",,Becas
+88,3,locuință utilizată,agenție,True,129900,,gata de utilizare,6/7,"('balcon',)",,centralizată,2015,,,,,,,,,Dambul Rotund
+64,3,locuință utilizată,agenție,False,150000,,,4/4,"('balcon',)",,centralizată,1990,,,,,,,,,Intre Lacuri
+65,3,locuință utilizată,agenție,False,125000,,,0/7,"('balcon',)",,centralizată,2020,,,,,,,,,Gruia
+67,3,locuință utilizată,agenție,False,137500,,,0/4,,,centralizată,1980,,,,,,,,,Grigorescu
+210,5,locuință utilizată,agenție,True,800000,,,10/x,"('terasă',)",garaj,,2023,clădire de apartamente,,"('telefon', 'internet', 'cablu tv')","('interfon', 'ușă metalică')",,,,,Manastur
+69,3,locuință nouă,agenție,True,139500,,gata de utilizare,1/3,"('balcon',)",,centralizată,2017,,,,,"('aer condiționat',)",,,,Unknown
+90,3,locuință nouă,agenție,False,249000,,gata de utilizare,3/3,"('balcon',)",,centralizată,2006,,,,,,,,Strada Sesului,Plopilor
+54,2,locuință utilizată,agenție,False,115000,,,0/6,"('balcon',)",,centralizată,2005,,,,,,,,,Gheorgheni
+54,2,locuință nouă,agenție,False,135000,,,2/x,"('balcon',)",,,2023,,,,,,,,,Marasti
+60,3,locuință nouă,agenție,False,195000,,,4/6,"('balcon',)",,centralizată,2015,,,,,,,,,Buna Ziua
+42,2,locuință nouă,agenție,False,130000,,gata de utilizare,3/4,"('balcon',)",,centralizată,1977,,,,,,,,,Grigorescu
+41,2,locuință nouă,agenție,False,112000,,gata de utilizare,1/4,,,,1985,,,,,,,,,Grigorescu
+67,3,locuință nouă,agenție,True,127000,,gata de utilizare,0/10,"('balcon',)",,centralizată,1978,,,,,,,,,Manastur
+50,2,locuință utilizată,agenție,False,130000,,,4/x,,,,0,,,,,,,,Strada Liviu Rebreanu,Gheorgheni
+50,2,locuință nouă,agenție,False,177000,,gata de utilizare,2/3,"('balcon',)",,centralizată,2010,,,,,,,,,Intre Lacuri
+35,2,locuință nouă,agenție,False,78000,,gata de utilizare,4/4,,,,1975,,,,,,,,,Manastur
+65,3,locuință utilizată,agenție,True,198000,,gata de utilizare,3/9,"('balcon',)",,centralizată,1990,,,,,"('aer condiționat',)",,,,Intre Lacuri
+65,3,locuință utilizată,agenție,True,136000,,,0/4,"('balcon',)",,centralizată,1980,,,,,,,,,Manastur
+63,3,locuință utilizată,agenție,False,163000,,gata de utilizare,3/7,"('balcon',)",,,2020,,,,,,,,,Iris
+70,3,locuință utilizată,agenție,False,150000,,,6/10,"('balcon',)",,centralizată,1980,,,,,,,,,Manastur
+66,3,locuință utilizată,agenție,True,175000,,,2/10,"('balcon',)",,centralizată,1980,,,,,,,,,Faget
+50,2,locuință nouă,agenție,False,165000,,gata de utilizare,2/3,"('balcon',)",,centralizată,2009,,,,,,,,,Buna Ziua
+64,3,locuință utilizată,agenție,False,165000,,,6/10,"('balcon',)",,centralizată,2020,,,,,,,,,Dambul Rotund
+87,3,locuință utilizată,agenție,True,217500,,,3/6,,,,2023,,,,,,,,,Becas
+72,3,locuință utilizată,privat,False,220000,drept de proprietate,gata de utilizare,1/3,"('balcon',)",garaj,centrală pe gaz,2014,bloc,,"('cablu tv', 'internet', 'telefon')","('ușă metalică', 'interfon')","('aer condiționat', 'scară interioară')",cărămidă,"('frigider', 'mobilier', 'cuptor', 'plită', 'mașină de spălat')",,Europa
+30,1,locuință utilizată,agenție,False,99800,drept de proprietate,gata de utilizare,2/2,,,centrală electrică,1980,,plastic,"('cablu tv', 'internet')","('ușă metalică', 'curte', 'interfon')","('debara',)",cărămidă,,,Centru
+66,3,locuință nouă,agenție,False,179000,,gata de utilizare,3/4,"('balcon',)",,,1980,,,,,,,,,Marasti
+28,1,locuință nouă,agenție,False,69500,,gata de utilizare,0/2,,,centralizată,2010,,,,,,,,,Manastur
+65,3,locuință nouă,agenție,False,145000,,necesita renovare,4/4,"('balcon',)",,centralizată,1981,,,,,,,,,Intre Lacuri
+70,3,locuință nouă,agenție,False,125900,,,1/3,"('balcon',)",,,2023,,,,,,,,,Iris
+69,3,locuință nouă,agenție,False,104900,,,3/3,"('balcon',)",,centralizată,2023,,,,,,,,,Unknown
+120,4,locuință nouă,agenție,False,299000,,,2/x,,,,0,,,,,,,,Calea Turzii,Buna Ziua
+48,2,locuință nouă,agenție,False,73500,,,3/3,"('balcon',)",,centralizată,2023,,,,,,,,,Unknown
+53,2,locuință nouă,agenție,False,94900,,,2/3,"('balcon',)",,,2023,,,,,,,,,Iris
+71,3,locuință nouă,agenție,True,185500,,,2/5,"('balcon',)",,centralizată,2022,,,,,"('aer condiționat',)",,,,Dambul Rotund
+87,3,locuință utilizată,agenție,False,230000,,,1/4,"('balcon',)",,,1990,,,,,,,,,Centru
+70,3,locuință utilizată,agenție,False,155000,,,4/4,"('balcon',)",,centralizată,1980,,,,,,,,,Manastur
+65,3,locuință utilizată,agenție,False,140000,,,0/4,"('balcon',)",,centralizată,1980,,,,,,,,,Manastur
+50,3,locuință utilizată,agenție,False,239000,,gata de utilizare,2/4,"('balcon',)",,centralizată,1980,,,,,,,,,Gruia
+30,2,locuință utilizată,agenție,False,90000,,,3/x,,,,0,,,,,,,,Strada Zambilei,Gheorgheni
+74,3,locuință utilizată,agenție,False,168000,,,0/x,,,centralizată,1980,,,,,,,,,Intre Lacuri
+55,3,locuință utilizată,agenție,True,163000,,,3/x,"('balcon',)",,centralizată,2000,,,,,,,,,Buna Ziua
+73,3,locuință utilizată,agenție,False,224000,,,1/2,"('balcon',)",,centralizată,2000,,,,,,,,,Buna Ziua
+67,3,locuință utilizată,agenție,False,180000,,,1/8,,,centralizată,1980,,,,,,,,,Manastur
+70,3,locuință utilizată,agenție,False,199000,,,1/6,,,centralizată,2022,,,,,,,,,Marasti
+55,2,locuință nouă,agenție,True,130000,,gata de utilizare,2/3,"('balcon',)",,centralizată,2016,,,,,,,,,Unknown
+53,3,locuință utilizată,agenție,False,145000,,,0/4,,,centralizată,1980,,,,,,,,,Manastur
+40,2,locuință nouă,agenție,True,129000,,gata de utilizare,5/8,"('balcon',)",,centralizată,2020,,,,,,,,,Bulgaria
+67,3,locuință nouă,agenție,False,135000,,gata de utilizare,8/10,"('balcon',)",,centralizată,1976,,,,,,,,,Manastur
+70,3,locuință utilizată,agenție,False,175000,,,1/4,"('balcon',)",,centralizată,2008,,,,,"('aer condiționat',)",,,,Manastur
+73,3,locuință utilizată,agenție,False,199999,,,,"('balcon', 'grădină')",garaj,,0,,,"('internet',)","('alarmă', 'ușă metalică', 'interfon')",,,,Strada Costache Negri,Buna Ziua
+45,2,locuință nouă,privat,True,115000,drept de proprietate,gata de utilizare,5/6,"('balcon',)",,centrală pe gaz,2023,bloc,aluminiu,"('cablu tv', 'internet')","('ușă metalică', 'curte', 'interfon')",,beton,"('frigider', 'mobilier', 'cuptor', 'TV', 'mașină de spălat')",,Dambul Rotund
+71,3,locuință utilizată,agenție,True,188500,drept de proprietate,gata de utilizare,1/6,"('balcon', 'terasă')",,centralizată,0,bloc,plastic,"('cablu tv', 'internet', 'telefon')","('ușă metalică', 'interfon')",,cărămidă,"('frigider', 'mobilier', 'cuptor', 'plită', 'mașină de spălat')",Strada Aurel Vlaicu,Marasti
+24,1,locuință utilizată,agenție,False,56100,,,0/x,,,,0,,,,,,,,,Buna Ziua
+61,2,locuință utilizată,agenție,True,160000,,gata de utilizare,2/6,"('balcon',)",,centralizată,1988,bloc,aluminiu,"('internet',)","('ușă metalică', 'interfon')","('bucătărie separată',)",cărămidă,"('frigider', 'mobilier', 'cuptor', 'mașină de spălat')",,Marasti
+76,4,locuință utilizată,agenție,False,190000,,,3/4,"('balcon',)",,centralizată,1980,,,,,,,,,Manastur
+70,3,locuință nouă,agenție,False,118200,,,1/4,"('balcon',)",,centralizată,2016,,,,,,,,,Unknown
+114,3,locuință nouă,agenție,False,288900,,,1/x,,,,0,,,,,,,,Strada Teodor Mihali,Intre Lacuri
+27,1,locuință nouă,agenție,False,86000,,gata de utilizare,0/4,,,centralizată,0,,,,,,,,,Manastur
+60,3,locuință nouă,agenție,False,133000,,,1/3,"('balcon',)",,,2024,,,,,,,,,Someseni
+40,2,locuință nouă,agenție,False,70000,,gata de utilizare,0/4,"('balcon',)",,centralizată,2010,,,,,,,,,Unknown
+52,2,locuință nouă,agenție,True,230000,,gata de utilizare,1/5,"('balcon',)",,centralizată,2018,,,,,"('aer condiționat',)",,,,Plopilor
+69,3,locuință nouă,agenție,False,163900,,,0/x,,,,0,,,,,,,,Strada Oasului,Iris
+50,2,locuință utilizată,agenție,False,124990,,,0/x,,,,1997,,,,,,,,,Marasti
+40,2,locuință nouă,agenție,True,134000,,gata de utilizare,5/6,,,centralizată,2023,,,,,"('aer condiționat',)",,,,Bulgaria
+101,3,locuință utilizată,agenție,False,305000,,,,,,,0,,,,,,,,,Marasti
+63,3,locuință nouă,agenție,False,170000,,gata de utilizare,4/4,"('balcon',)",,centralizată,1985,,,,,,,,,Plopilor
+25,1,locuință utilizată,agenție,False,61500,,,3/x,,,,1997,,,,,,,,,Marasti
+58,2,locuință utilizată,agenție,False,149900,,,4/x,,,,0,,,,,,,,Aleea Slanic,Gheorgheni
+28,1,locuință utilizată,agenție,False,77000,drept de proprietate,gata de utilizare,9/10,"('balcon',)",,centralizată,1989,bloc,plastic,,"('ușă metalică',)",,placa de beton,"('frigider', 'mobilier', 'cuptor', 'TV', 'mașină de spălat')",,Manastur
+38,1,locuință nouă,agenție,False,106000,,,0/x,,,,0,,,,,,,,,Zorilor
+32,1,locuință nouă,agenție,False,78000,,,1/x,,,,0,,,,,,,,Strada Traian Vuia,Someseni
+42,2,locuință nouă,agenție,False,77500,,,4/x,,,,0,,,,,,,,,Strada Valea Chintaului
+65,3,locuință utilizată,agenție,False,225000,,,2/x,,,,0,,,,,,,,Strada Ariesului,Gheorgheni
+11,1,locuință utilizată,agenție,False,35800,,gata de utilizare,3/4,,,centralizată,1989,bloc,plastic,,,,beton,,,Andrei Muresanu
+64,3,locuință utilizată,agenție,True,134000,,necesita renovare,,"('balcon',)",,centrală pe gaz,0,bloc,,,"('interfon',)","('bucătărie separată',)",,,,Manastur
+50,2,locuință nouă,agenție,False,135000,,gata de utilizare,0/1,"('balcon',)",,centralizată,2010,,,,,,,,,Manastur
+53,2,locuință nouă,agenție,True,115000,,gata de utilizare,0/10,"('balcon',)",,centralizată,1985,,,,,,,,,Manastur
+48,2,locuință nouă,agenție,False,115000,,,2/4,"('balcon',)",,centralizată,0,,,,,,,,,Marasti
+53,2,locuință nouă,agenție,False,165000,,,0/4,,,centralizată,0,,,,,,,,,Gheorgheni
+42,2,locuință nouă,agenție,False,108980,,gata de utilizare,6/10,,,,1975,clădire de apartamente,,"('cablu tv', 'internet')",,,,"('mașină de spălat', 'plită', 'TV', 'cuptor', 'frigider', 'mobilier')",Strada Mehedinti,Manastur
+68,3,locuință nouă,agenție,False,137980,,gata de utilizare,4/4,"('balcon',)",,,1975,clădire de apartamente,lemn,"('cablu tv',)",,"('bucătărie separată',)",,"('mobilier',)",Strada Bucegi,Manastur
+91,3,locuință nouă,agenție,False,211980,,gata de utilizare,9/10,"('balcon',)",,centrală pe gaz,1999,clădire de apartamente,,"('cablu tv', 'internet')","('interfon',)",,,"('mașină de spălat', 'plită', 'TV', 'cuptor', 'frigider', 'mobilier')",Strada Arinilor,Manastur
+48,3,locuință nouă,agenție,False,109000,,gata de utilizare,4/4,,,centralizată,1977,,,,,,,,,Manastur
+36,2,locuință nouă,agenție,False,86980,,gata de utilizare,4/4,,,centrală pe gaz,1977,clădire de apartamente,,"('cablu tv', 'internet')",,,,"('mașină de spălat', 'plită', 'TV', 'cuptor', 'frigider', 'mobilier')",Strada Mehedinti,Manastur
+67,3,locuință nouă,agenție,False,159000,,gata de utilizare,4/4,"('balcon',)",,,1980,,,,,,,,,Marasti
+52,2,locuință nouă,agenție,True,230000,drept de proprietate,gata de utilizare,1/6,"('balcon',)",,centralizată,2018,bloc,plastic,"('cablu tv', 'internet', 'telefon')","('ușă metalică', 'interfon')","('aer condiționat',)",cărămidă,,Calea Manastur,Plopilor
+43,2,locuință nouă,agenție,False,124980,,gata de utilizare,10/10,"('balcon',)",,,1977,clădire de apartamente,,"('internet',)",,"('bucătărie separată',)",,"('mașină de spălat', 'plită', 'TV', 'cuptor', 'frigider', 'mobilier')",Strada Mehedinti,Manastur
+52,2,locuință nouă,agenție,False,137000,,gata de utilizare,4/x,,,centralizată,0,,,,,,,,,Gheorgheni
+31,1,locuință nouă,agenție,False,71000,,necesita renovare,10/10,"('balcon',)",,,1980,,,,,,,,Strada Bucegi,Manastur
+40,2,locuință utilizată,agenție,True,140000,,,4/6,"('balcon',)",,centralizată,2019,,,,,,,,,Bulgaria
+52,2,locuință nouă,agenție,True,165000,,,4/6,"('balcon',)",,,2023,,,,,"('aer condiționat',)",,,,Dambul Rotund
+54,4,locuință utilizată,agenție,False,110000,drept de proprietate,gata de utilizare,4/4,,,centralizată,0,bloc,plastic,"('cablu tv', 'internet')","('ușă metalică', 'interfon')","('bucătărie separată',)",cărămidă,"('mobilier', 'cuptor', 'plită')",,Manastur
+43,2,locuință nouă,agenție,True,125000,,gata de utilizare,1/10,"('balcon',)",,,2013,,,,,,,,,Someseni
+30,2,locuință nouă,agenție,False,87000,,gata de utilizare,4/x,,,,0,,,,,,,,,Gheorgheni
+54,3,locuință nouă,agenție,False,120000,,,1/4,"('balcon',)",,,1977,,,,,,,,,Manastur
+45,2,locuință utilizată,agenție,True,164999,,,4/4,,,centralizată,2012,,,,"('supraveghere video',)","('aer condiționat',)",,,,Intre Lacuri
+51,2,locuință nouă,agenție,False,136000,,,2/x,"('balcon',)",,centralizată,1985,,,,,,,,,Intre Lacuri
+56,2,locuință nouă,agenție,True,152000,,,1/3,"('balcon',)",,centralizată,2023,,,,,,,,,Borhanci
+50,3,locuință nouă,agenție,False,125000,,gata de utilizare,3/6,"('balcon',)",,centralizată,2000,,,,,,,,,Unknown
+33,1,locuință nouă,agenție,False,78000,,gata de utilizare,9/10,,,,1980,,,,,,,,,Manastur
+58,3,locuință utilizată,agenție,True,130000,,gata de utilizare,6/7,"('balcon',)",garaj,centrală pe gaz,2016,bloc,plastic,"('cablu tv', 'internet')","('ușă metalică', 'interfon', 'supraveghere video')",,cărămidă,"('frigider', 'mobilier', 'cuptor', 'plită', 'TV', 'mașină de spălat')",,Manastur
+45,2,locuință nouă,agenție,True,128000,,,7/10,"('balcon',)",,centralizată,2000,,,,,,,,,Dambul Rotund
+52,2,locuință nouă,agenție,False,135000,,gata de utilizare,4/4,"('balcon',)",,centralizată,2005,,,,,,,,,Intre Lacuri
+67,3,locuință nouă,agenție,True,170000,,,2/7,,,,2023,,,,,,,,,Sopor
+60,2,locuință utilizată,agenție,False,175000,,,,,,,0,,,,,,,,,Gruia
+114,4,locuință nouă,agenție,False,239500,,gata de utilizare,9/10,"('balcon',)",,,1976,clădire de apartamente,,"('cablu tv',)","('interfon',)",,,"('mașină de spălat', 'plită', 'TV', 'cuptor', 'frigider', 'mobilier')",Calea Manastur,Plopilor
+57,3,locuință nouă,agenție,False,122980,,gata de utilizare,7/10,"('balcon',)",,,1975,clădire de apartamente,,"('cablu tv', 'internet')","('interfon',)",,,"('mașină de spălat vasele', 'plită', 'TV', 'cuptor', 'frigider', 'mobilier')",Strada Mehedinti,Manastur
+56,2,locuință nouă,agenție,True,176000,,gata de utilizare,5/6,"('balcon',)",,centralizată,2016,,,,,,,,,Buna Ziua
+60,3,locuință utilizată,agenție,False,165000,,,3/x,,,,1997,,,,,,,,,Marasti
+61,2,locuință nouă,agenție,False,144000,,,5/x,,,,0,,,,,,,,Strada Strungarilor,Dambul Rotund
+74,3,locuință utilizată,agenție,False,234990,,,2/x,,,,0,,,,,,,,Strada George Baritiu,Centru
+60,3,locuință nouă,agenție,False,160000,,gata de utilizare,4/4,"('balcon',)",,,1980,,,,,,,,,Marasti
+80,3,locuință utilizată,agenție,False,220000,,,9/x,,,,0,,,,,,,,Strada Taberei,Manastur
+47,2,locuință nouă,agenție,True,153000,,gata de utilizare,9/x,"('balcon',)",,centralizată,2015,,,,,,,,,Andrei Muresanu
+45,2,locuință nouă,agenție,False,124900,,,4/x,,,,0,,,,,,,,Strada Garii,Dambul Rotund
+67,3,locuință nouă,agenție,True,215000,,gata de utilizare,8/11,,,centralizată,2014,,,,,,,,,Gheorgheni
+55,2,locuință utilizată,agenție,False,130000,,,8/x,,,,0,,,,,,,,Strada Aurel Vlaicu,Intre Lacuri
+57,2,locuință utilizată,agenție,True,164000,,,5/7,"('balcon',)",,centralizată,2016,,,,,"('aer condiționat',)",,,,Buna Ziua
+78,3,locuință nouă,agenție,False,240000,,gata de utilizare,3/4,"('balcon',)",,centralizată,1985,,,,,,,,,Marasti
+86,3,locuință nouă,agenție,True,185000,,gata de utilizare,3/12,,,centralizată,2020,,,"('internet',)",,,,"('mobilier',)",,Unknown
+130,4,locuință nouă,agenție,False,550000,,,3/3,"('balcon',)",,centralizată,0,,,,,,,,,Grigorescu
+68,3,locuință utilizată,agenție,False,245000,,gata de utilizare,2/2,"('balcon',)",,centralizată,2016,,,,,"('aer condiționat',)",,,,Borhanci
+78,3,locuință nouă,agenție,False,289000,,necesita renovare,2/2,"('balcon',)",,,0,,,,,,,,,Centru
+95,3,locuință nouă,agenție,False,420000,,gata de utilizare,1/4,"('balcon',)",,centralizată,2000,,,,,,,,,Andrei Muresanu
+70,3,locuință utilizată,agenție,False,175000,,,1/x,,,,0,,,,,,,,,Marasti
+70,3,locuință nouă,agenție,False,175000,,gata de utilizare,1/4,"('balcon',)",,centralizată,2008,,,,,"('aer condiționat',)",,,,Manastur
+71,3,locuință nouă,agenție,True,236000,,gata de utilizare,3/3,"('terasă',)",garaj,centrală pe gaz,0,bloc,plastic,"('cablu tv', 'internet')","('ușă metalică', 'interfon', 'supraveghere video', 'obloane')","('aer condiționat',)",cărămidă,"('mașină de spălat vasele', 'frigider', 'mobilier', 'cuptor', 'plită', 'TV', 'mașină de spălat')",,Someseni
+73,3,locuință nouă,agenție,True,195000,,,4/5,"('balcon',)",,,2023,,,,,,,,,Dambul Rotund
+56,2,locuință nouă,agenție,True,295000,,gata de utilizare,1/3,"('balcon',)",,centralizată,2000,,,,,,,,,Centru
+52,2,locuință nouă,agenție,True,112000,,necesita renovare,3/10,"('balcon',)",,,1985,,,,,,,,,Manastur
+28,1,locuință utilizată,agenție,False,73000,,,8/10,,,,1980,,,,,,,,,Gheorgheni
+40,2,locuință nouă,agenție,False,132000,,gata de utilizare,0/3,,,centralizată,1977,,,,,,,,,Centru
+48,2,locuință nouă,agenție,False,130000,,gata de utilizare,0/4,,,centralizată,1977,,,,,,,,,Gheorgheni
+50,2,locuință nouă,agenție,False,155000,,,6/6,,,,0,,,,,,,,,Marasti
+74,3,locuință nouă,agenție,False,315000,,,7/7,,,,0,,,,,,,,,Zorilor
+87,3,locuință nouă,agenție,False,286000,,,7/8,,,,2019,,,,,,,,,Sopor
+200,4,locuință nouă,agenție,False,590000,,,3/4,,,,2014,,,,,,,,,Buna Ziua
+87,3,locuință nouă,agenție,False,320000,,,3/10,,,,2015,,,,,,,,,Gheorgheni
+77,3,locuință nouă,agenție,False,255000,,,2/4,,,,2021,,,,,,,,,Marasti
+65,3,locuință nouă,agenție,False,220000,,,1/4,,,,2021,,,,,,,,,Marasti
+51,2,locuință nouă,agenție,False,155000,,,4/4,,,,0,,,,,,,,,Marasti
+49,2,locuință nouă,agenție,False,85000,,,4/4,,,,0,,,,,,,,,Marasti
+66,3,locuință nouă,agenție,False,295000,,,6/6,,,,2018,,,,,,,,,Iris
+100,4,locuință nouă,agenție,False,235000,,,0/10,,,,0,,,,,,,,,Plopilor
+49,2,locuință nouă,agenție,False,125000,,,0/4,,,,0,,,,,,,,,Gheorgheni
+54,3,locuință nouă,agenție,False,167000,,,5/5,,,,0,,,,,,,,,Gheorgheni
+57,3,locuință nouă,agenție,False,180000,,,0/4,,,,0,,,,,,,,,Grigorescu
+90,4,locuință nouă,agenție,False,269900,,,5/18,,,,0,,,,,,,,,Centru
+80,3,locuință nouă,agenție,False,245000,,,0/3,,,,0,,,,,,,,,Centru
+80,3,locuință nouă,agenție,False,395000,,,6/6,,,,2018,,,,,,,,,Gheorgheni
+62,2,locuință nouă,agenție,False,144000,,,5/6,,,,2022,,,,,,,,,Dambul Rotund
+34,2,locuință nouă,agenție,False,78000,,,1/4,,,,0,,,,,,,,,Manastur
+58,2,locuință nouă,agenție,False,183000,,,1/2,,,,2015,,,,,,,,,Borhanci
+124,3,locuință nouă,agenție,False,450000,,,3/3,,,,2008,,,,,,,,,Andrei Muresanu
+79,3,locuință nouă,agenție,False,206700,,,1/2,,,,2023,,,,,,,,,Europa
+75,3,locuință nouă,agenție,False,235000,,,2/8,,,,0,,,,,,,,,Gheorgheni
+49,2,locuință nouă,agenție,False,150000,,,0/1,,,,0,,,,,,,,,Marasti
+53,2,locuință nouă,agenție,False,145000,,,8/8,,,,2017,,,,,,,,,Buna Ziua
+52,2,locuință nouă,agenție,False,265000,,,0/1,,,,0,,,,,,,,,Gruia
+77,3,locuință nouă,agenție,False,234900,,,3/6,,,,2019,,,,,,,,,Marasti
+35,2,locuință nouă,agenție,False,72000,,,5/5,,,,0,,,,,,,,,Marasti
+65,3,locuință nouă,agenție,False,174999,,,1/1,,,,0,,,,,,,,,Marasti
+59,2,locuință nouă,agenție,False,197000,,,5/6,,,,2021,,,,,,,,,Marasti
+35,2,locuință nouă,agenție,False,99990,,,0/8,,,,0,,,,,,,,,Manastur
+56,2,locuință nouă,agenție,False,185000,,,7/7,,,,2020,,,,,,,,,Europa
+54,1,locuință nouă,agenție,False,75000,,,0/1,,,,0,,,,,,,,,Centru
+105,4,locuință nouă,agenție,False,239500,,,9/10,,,,0,,,,,,,,,Manastur
+98,3,locuință nouă,agenție,False,210000,,,1/3,,,,0,,,,,,,,,Buna Ziua
+51,2,locuință nouă,agenție,False,145000,,,4/4,,,,0,,,,,,,,,Intre Lacuri
+67,3,locuință nouă,agenție,False,145000,,,6/10,,,,0,,,,,,,,,Manastur
+49,2,locuință nouă,agenție,False,145000,,,4/4,,,,0,,,,,,,,,Zorilor
+110,3,locuință nouă,agenție,False,275000,,,1/2,,,,2023,,,,,,,,,Borhanci
+72,3,locuință nouă,agenție,False,166000,,,4/4,,,,0,,,,,,,,,Gruia
