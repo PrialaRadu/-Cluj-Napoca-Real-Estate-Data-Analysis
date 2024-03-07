@@ -38,4 +38,5 @@ Usage
     git clone https://github.com/PrialaRadu/-UNFINISHED-Cluj-Napoca-Real-Estate-Data-Analysis.git
 
 Open the Jupyter Notebook: Cluj_Real_Estate_Analysis.ipynb.
+
 Run the notebook cell by cell to reproduce the analysis.
