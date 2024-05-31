@@ -35,7 +35,7 @@ Usage
 
     bash
 
-    git clone https://github.com/PrialaRadu/-UNFINISHED-Cluj-Napoca-Real-Estate-Data-Analysis.git
+    git clone https://github.com/PrialaRadu/-Cluj-Napoca-Real-Estate-Data-Analysis.git
 
 Open the Jupyter Notebook: RealEstateAnalysis.ipynb.
 
