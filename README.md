@@ -1,4 +1,4 @@
-# -UNFINISHED-Cluj-Napoca-Real-Estate-Data-Analysis
+# -Cluj-Napoca-Real-Estate-Data-Analysis
 
 Cluj-Napoca Real Estate Data Analysis Project
 Overview
