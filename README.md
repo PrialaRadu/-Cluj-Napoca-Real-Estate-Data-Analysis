@@ -40,3 +40,6 @@ Usage
 Open the Jupyter Notebook: RealEstateAnalysis.ipynb.
 
 Run the notebook cell by cell to reproduce the analysis.
+
+
+![graphs](graphs.png)
